@@ -92,53 +92,53 @@ export default [
       },
     ],
   },
-  {
-    header: "PENGURUSAN PENGGUNA DAN SISTEM",
-    child: [
-      // {
-      //   title: "Pengurusan Pengguna",
-      //   icon: "pajamas:issue-type-maintenance",
-      //   child: [
-      //     {
-      //       title: "Peranan",
-      //       path: "/new/tetapan-peranan",     
-      //     },
-      //     {
-      //       title: "Pengguna",
-      //       path: "/new/tetapan-pengguna",     
-      //     },
-      //   ]     
-      // },
-      // {
-      //   title: "Pengurusan Sistem",
-      //   icon: "pajamas:issue-type-maintenance",
-      //   child: [
-      //     {
-      //       title: "Audit trail",
-      //       path: "/new/tetapan-audit-trail",     
-      //     },
-      //     {
-      //       title: "SMTP",
-      //       path: "/new/tetapan-smtp",     
-      //     },
-      //     {
-      //       title: "Pangkalan Data",
-      //       path: "/new/tetapan-pengakalan-data",     
-      //     },
-      //     {
-      //       title: "Integrasi Sistem Luar",
-      //       path: "/new/tetapan-integrasi-sistem-luar",     
-      //     },
-      //   ]     
-      // },
-      {
-        title: "Pengurusan Data",
-        path: "/new/pengurusan-data",
-        icon: "pajamas:issue-type-maintenance",       
-      }, 
+  // {
+  //   header: "PENGURUSAN PENGGUNA DAN SISTEM",
+  //   child: [
+  //     // {
+  //     //   title: "Pengurusan Pengguna",
+  //     //   icon: "pajamas:issue-type-maintenance",
+  //     //   child: [
+  //     //     {
+  //     //       title: "Peranan",
+  //     //       path: "/new/tetapan-peranan",     
+  //     //     },
+  //     //     {
+  //     //       title: "Pengguna",
+  //     //       path: "/new/tetapan-pengguna",     
+  //     //     },
+  //     //   ]     
+  //     // },
+  //     // {
+  //     //   title: "Pengurusan Sistem",
+  //     //   icon: "pajamas:issue-type-maintenance",
+  //     //   child: [
+  //     //     {
+  //     //       title: "Audit trail",
+  //     //       path: "/new/tetapan-audit-trail",     
+  //     //     },
+  //     //     {
+  //     //       title: "SMTP",
+  //     //       path: "/new/tetapan-smtp",     
+  //     //     },
+  //     //     {
+  //     //       title: "Pangkalan Data",
+  //     //       path: "/new/tetapan-pengakalan-data",     
+  //     //     },
+  //     //     {
+  //     //       title: "Integrasi Sistem Luar",
+  //     //       path: "/new/tetapan-integrasi-sistem-luar",     
+  //     //     },
+  //     //   ]     
+  //     // },
+  //     {
+  //       title: "Pengurusan Data",
+  //       path: "/new/pengurusan-data",
+  //       icon: "pajamas:issue-type-maintenance",       
+  //     }, 
       
-    ],
-  },
+  //   ],
+  // },
 
   // {
   //   header: "",
